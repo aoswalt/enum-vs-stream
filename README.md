@@ -66,4 +66,4 @@ using `Stream` in place of `Enum` will likely lead to more time taken instead of
 ### References
 
 * [Benchmark measure function](https://stackoverflow.com/a/29674651)
-* [Talk about epic vs stream](https://www.youtube.com/watch?v=Bnqvz5W87Yo)
+* [Talk about enum vs stream](https://www.youtube.com/watch?v=Bnqvz5W87Yo)
